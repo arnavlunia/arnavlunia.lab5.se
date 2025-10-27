@@ -1,0 +1,25 @@
+************* Module inventory_system
+inventory_system.py:92:0: C0304: Final newline missing (missing-final-newline)
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:10:0: C0103: Function name "addItem" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:30:0: C0103: Function name "removeItem" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:40:0: C0103: Function name "getQty" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:45:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:45:0: C0103: Function name "loadData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:47:4: W0603: Using the global statement (global-statement)
+inventory_system.py:49:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inventory_system.py:56:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:56:0: C0103: Function name "saveData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:58:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inventory_system.py:62:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:62:0: C0103: Function name "printData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:69:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:69:0: C0103: Function name "checkLowItems" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:77:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 6.23/10 (previous run: 4.60/10, +1.63)
+
